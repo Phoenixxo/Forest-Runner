@@ -1,6 +1,6 @@
 ##  <font size="10"> <p align=Center> << Forest Runner >> </p> </font>
 <body>
-    <h1 align=Center> About Forest Runner</h1>
+    <font size="10"> <h1 align=Center> About Forest Runner</h1> </font>
 
 <div align=Center>
     <p> This game was made for experience and fun. Just a side project I made in school while in 10th grade. </p>
