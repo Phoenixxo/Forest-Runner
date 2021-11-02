@@ -1,15 +1,16 @@
-##  <font size="10"> <p align=Center> << Forest Runner >> </p> </font>
-<body>
-    <font size="10"> <h1 align=Center> About Forest Runner</h1> </font>
+##  <font size="30"> <p align=Center> << Forest Runner >> </p> </font>
+
+<font size="13"> <p align=Center> About Forest Runner</p> </font>
 
 <div align=Center>
-    <p> This game was made for experience and fun. Just a side project I made in school while in 10th grade. </p>
-    <p> It is a simple side scroller game. Left and Right arrow keys to move & spacebar to jump. </p>
+    <font size="5"><p> This game was made for experience and fun. Just a side project I made in school while in 10th grade. </p>
+    <p> It is a simple side scroller game. Left and Right arrow keys to move & spacebar to jump. </p> 
     <h2>Development Warning: </h2>
     <p> This game is still in an early stage and is not quite finished! </p>
+    </font>
     <hr>
 </div>
-</body>
+
 
 ## Details: 
 This was fully written in [python](https://www.python.org/downloads/).
