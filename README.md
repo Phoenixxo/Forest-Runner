@@ -1,9 +1,7 @@
 ##  <p align=Center> << Forest Runner >> </p>
-<style type="text/css">
-    body{ 
-    font-size: 20px
-    }
-</style>
+@settings{
+    font-size: 100px;
+}
 <body>
     <h1 align=Center> About Forest Runner</h1>
 
