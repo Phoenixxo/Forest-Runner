@@ -1,9 +1,4 @@
-##  <p align=Center> << Forest Runner >> </p>
-<style type="text/css">
-    body{ 
-    font-size: 20px
-    }
-</style>
+##  <font size="10"> <p align=Center> << Forest Runner >> </p> </font>
 <body>
     <h1 align=Center> About Forest Runner</h1>
 
@@ -19,7 +14,7 @@
 ## Details: 
 This was fully written in [python](https://www.python.org/downloads/).
 
-I used the [`pygame`](https://www.pygame.org/docs/) library. It takes a little learning to get figure out but it becomes straight-forward. 
+I used the [pygame](https://www.pygame.org/docs/) library. It takes a little learning to get figure out but it becomes straight-forward. 
 
 
 ### **Disclaimer:**
